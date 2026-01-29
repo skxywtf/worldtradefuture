@@ -51,15 +51,7 @@ export function Nav() {
 
           <span className="h-5 w-px bg-white/10" />
 
-          <Image
-            src="/wtf-digital.jpg"
-            alt="WTF"
-            width={42}
-            height={42}
-            className="rounded-lg border border-white/10"
-            priority
-          />
-        </Link>
+           </Link>
 
         {/* DESKTOP NAV */}
         <nav className="hidden items-center gap-1 md:flex">

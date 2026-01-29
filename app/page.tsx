@@ -36,7 +36,7 @@ export default function Home() {
           {/* Brand Row */}
           <div className="flex items-center gap-4">
             <Image
-              src="/wtf-digital.jpg"
+              src="/wtf-digital.jpeg"
               alt="WTF"
               width={96}
               height={96}
